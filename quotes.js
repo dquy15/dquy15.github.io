@@ -1,17 +1,17 @@
 const quotes = [
   {
-    quote: "Talk is cheap. Show me the code.😍😍"
+    quote: "Người tốt thì nhiều, mà người biết điều thì ít."
   },
   {
-    quote: "Java is to JavaScript what car is to Carpet.🤣🤣"
-  },
-  {
-    quote:
-      "Programs must be written for people to read, and only incidentally for machines to execute. 😱😱"
+    quote: "Sống chết có nhau, ốm đâu kệ cụ mày."
   },
   {
     quote:
-      "Any fool can write code that a computer can understand 😂. Good programmers write code that humans can understand 😇."
+      "Vạn sự khởi đầu nan. Gian nan nản."
+  },
+  {
+    quote:
+      "Dân thường chơi đẹp đè bẹp dân chơi."
   },
   {
     quote:
@@ -19,37 +19,37 @@ const quotes = [
   },
   {
     quote:
-      "I'm not a great programmer; I'm just a good programmer with great habits.😍😍"
+      "Người yêu là phù du, thầy u mới là vĩnh cửu."
   },
   {
-    quote: "Truth can only be found in one place: the code.😍"
+    quote: "Cứ tự nhiên nhưng đừng quên mình là khách."
   },
   {
-    quote: "Before software can be reusable it first has to be usable.😍😱"
+    quote: "Tiền không phải là tất kả, vì trên thế giới này còn vàng và kim cương."
   },
   {
-    quote: "Simplicity is the soul of efficiency.😍"
+    quote: "Sai thì sửa, mà chửa thì đẻ."
   },
   {
-    quote: "Fix the cause, not the symptom. 😱"
+    quote: "Tôi cưỡng lại được mọi thứ, trừ…cám dỗ. 😱"
   },
   {
-    quote: "In order to be irreplaceable, one must always be different.😍"
+    quote: "Trông bạn quen quen, hình như tớ…chưa gặp bao giờ.😍"
   },
   {
-    quote: "Experience is the name everyone gives to their mistakes. 🤔🤔"
+    quote: "Chưa phê đâu nhưng còn lâu…mới tỉnh."
   },
   {
-    quote: "Ruby is rubbish! PHP is phpantastic! 🤣"
+    quote: "Thanh niên muốn hư hỏng thì phải có tiền."
   },
   {
-    quote: "No one is master something is missing"
+    quote: "Đừng bao giờ bán rẻ anh em nếu…chưa được giá."
   },
   {
-    quote: "Bug is the Step to Success."
+    quote: "Đang đi trên đường, bỗng thấy bất thường. Úp mặt vào tường. Lại thấy…bình thường"
   },
   {
-    quote: "Programming is the Best on Working."
+    quote: "Gái đẹp muốn có tiền thì phải hư hỏng."
   }
 ];
 
